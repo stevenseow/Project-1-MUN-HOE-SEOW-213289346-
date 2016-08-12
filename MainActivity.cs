@@ -14,7 +14,7 @@ namespace Project1_StudyPlanner
 		{
 			base.OnCreate(savedInstanceState);
 
-			// Set our view from the "main" layout resource
+			
 			SetContentView(Resource.Layout.Main);
 
 			//Button add to another view
